@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "olx-sijeesh"
-  }
+    "default": "olx-app-aaf19",
+    "hosting": "olx-app-aaf19"
+  },
+  "targets": {},
+  "etags": {}
 }
