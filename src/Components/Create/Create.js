@@ -15,6 +15,7 @@ const Create = () => {
   let [image, setImage] = useState();
   let [loading,setLoading]=useState(false);
   const handleSubmit = () => {
+    // console.log(name,category,price,description,image);
     setLoading(true);
     let date = new Date().toDateString();
     Firebase.storage()

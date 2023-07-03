@@ -12,7 +12,7 @@ function Footer() {
           </div>
           <div className="list">
             <ul>
-              <li>kolkata</li>
+              <li>Delhi</li>
               <li>Mumbai</li>
               <li>Chennai</li>
               <li>Pune</li>
@@ -46,8 +46,8 @@ function Footer() {
         </div>
       </div>
       <div className="footer">
-        <p>Other Countries Pakistan - South Africa - Indonesia</p>
-        <p>Free Classifieds in India. © 2006-2021 OLX</p>
+        <p>Other Countries Australia - South Africa - Indonesia</p>
+        <p>Free Classifieds in India. © 2020-2024 OLX</p>
       </div>
     </div>
   );
